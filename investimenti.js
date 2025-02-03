@@ -825,7 +825,7 @@ const investmentData = {
         co2: -15,
         consenso: 10,
       },
-      titolo: "High Capacity Power Lines",
+      titolo: "Electrification Power Lines",
       opzioni: [
         {
           scienziato: "grid",
